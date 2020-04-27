@@ -1,4 +1,3 @@
-# gocorona
 install
 1-node js
 2- mongodb
